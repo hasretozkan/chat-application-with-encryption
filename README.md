@@ -10,8 +10,4 @@ Chat Application with Encryption using python. Example to how make a secure chat
  4. Run server.py and start server. 
  5. Run client.py and start secure chatting.
 
-## Diagram
-
-![explanation](https://github.com/LatrecheYasser/Secure-Python-Chat/raw/master/assets/image.svg?sanitize=true)
-
 **[hasretozkan.me](hasretozkan.me)**
